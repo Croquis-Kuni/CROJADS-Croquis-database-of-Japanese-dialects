@@ -1,2 +1,3 @@
-# Croquis-ELAN-files
-ELAN files on minor Japanese dialects made by KUROKI Kunihiko
+# CROJADS
+The acronym for "Croquis Database of Japanese Dialects." 
+This repository includes ELAN and other files documenting minor Japanese dialects. 
