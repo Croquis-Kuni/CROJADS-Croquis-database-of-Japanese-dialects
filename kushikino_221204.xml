@@ -4421,6 +4421,22 @@
             <gloss>Prox:Gen</gloss>
         </sense>
     </entry>
+    <entry id="" dateCreated="" dateModified="" order="1">
+        <lexical-unit>a,</lexical-unit>
+        <citation>a,</citation>
+        <morph-type>root</morph-type>
+        <variant></variant>
+        <variant></variant>
+        <phonetic lang=":"></phonetic>
+        <note>tone:a</note>
+        <note></note>
+        <note>eg: </note>
+        <sense id="" order="1">
+            <grammatical-category>dem</grammatical-category>
+            <gloss>Dist</gloss>
+            <internal-note></internal-note>
+        </sense>
+    </entry>
     <entry id="20220917_2656" dateCreated="2021-10-12T22:55:10.064Z" dateModified="2021-10-24T06:59:41.478Z" order="1">
         <lexical-unit>are,</lexical-unit>
         <citation>are,</citation>
@@ -4429,7 +4445,6 @@
         <variant>aje,</variant>
         <variant>aj,</variant>
         <variant>aQ,</variant>
-        <variant>a,</variant>
         <note>tone:a</note>
         <note>eg: a-i]=ga hana[s=ja bun]=to [ta]me: nar;a-N :彼奴の　話しは　全然　為に　成らない。</note>
         <note>eg: a-i=[to]=wa ha=[ga] a[w;a-N :彼奴とは　気(lit. 歯)が　合わない。</note>
@@ -4524,13 +4539,13 @@
         </sense>
     </entry>
     <entry id="20220917_2860" dateCreated="2021-10-13T21:39:19.437Z" dateModified="2021-11-06T02:28:24.443Z" order="1">
-        <lexical-unit>dono</lexical-unit>
-        <citation>dono</citation>
+        <lexical-unit>dono,</lexical-unit>
+        <citation>dono,</citation>
         <morph-type>root</morph-type>
-        <variant>doN</variant>
+        <variant>doN,</variant>
         <sense id="s_f9862e99-815e-457d-b3a9-d3546e9555a8" order="1">
             <grammatical-category>dem</grammatical-category>
-            <gloss>Wh:Def:Gen</gloss>
+            <gloss>Which:Gen</gloss>
         </sense>
     </entry>
     <entry id="20220917_380" order="1">
@@ -4542,7 +4557,7 @@
         <note></note>
         <sense id="" order="1">
             <grammatical-category>dem</grammatical-category>
-            <gloss>WH:Adv</gloss>
+            <gloss>Which:Adv</gloss>
         </sense>
     </entry>
     <entry id="20220917_385" dateCreated="2021-09-05T16:15:02.624Z" dateModified="2021-11-06T04:26:13.228Z" order="1">
@@ -4553,10 +4568,27 @@
         <variant>doje,</variant>
         <variant>doj,</variant>
         <variant>doQ,</variant>
-        <variant>do,</variant>
+        <variant></variant>
+        <note>tone:a</note>
         <sense id="s_109ef66e-6831-4099-9ccd-d2cfb13686b9" order="1">
             <grammatical-category>dem</grammatical-category>
-            <gloss>Wh:Def:物</gloss>
+            <gloss>Which:物</gloss>
+        </sense>
+    </entry>
+    <entry id="" dateCreated="" dateModified="" order="1">
+        <lexical-unit>do,</lexical-unit>
+        <citation>do,</citation>
+        <morph-type>root</morph-type>
+        <variant></variant>
+        <variant></variant>
+        <phonetic lang=":"></phonetic>
+        <note>tone:a</note>
+        <note></note>
+        <note>eg: </note>
+        <sense id="" order="1">
+            <grammatical-category>dem</grammatical-category>
+            <gloss>Which</gloss>
+            <internal-note></internal-note>
         </sense>
     </entry>
     <entry id="20220917_387" dateCreated="2021-10-20T21:35:45.779Z" dateModified="2021-11-06T04:26:20.277Z" order="1">
@@ -4565,7 +4597,7 @@
         <morph-type>root</morph-type>
         <sense id="s_4bb9b629-9d33-4740-afe9-a4c19e63c992" order="1">
             <grammatical-category>dem</grammatical-category>
-            <gloss>Wh:Def:方向</gloss>
+            <gloss>Wh:方向</gloss>
         </sense>
     </entry>
     <entry id="20220917_542" dateCreated="2021-11-05T23:42:21.511Z" dateModified="2021-11-06T04:21:27.662Z" order="1">
@@ -4671,12 +4703,29 @@
             <gloss>いつまでも</gloss>
         </sense>
     </entry>
+    <entry id="" dateCreated="" dateModified="" order="1">
+        <lexical-unit>ka,</lexical-unit>
+        <citation>ka,</citation>
+        <morph-type>root</morph-type>
+        <variant></variant>
+        <variant></variant>
+        <phonetic lang=":"></phonetic>
+        <note>tone:a:tbc</note>
+        <note></note>
+        <note>eg: </note>
+        <sense id="" order="1">
+            <grammatical-category>dem</grammatical-category>
+            <gloss>Dist</gloss>
+            <internal-note></internal-note>
+        </sense>
+    </entry>
     <entry id="20220917_701" dateCreated="2021-09-03T02:17:20.273Z" dateModified="2021-10-20T22:39:36.105Z" order="1">
         <lexical-unit>kare,</lexical-unit>
         <citation>kare,</citation>
         <morph-type>root</morph-type>
         <variant>kaje,</variant>
         <variant>kaj,</variant>
+        <note>tone:a:tbc</note>
         <sense id="s_b4d18962-525a-4770-95c9-f238c0a41312" order="1">
             <grammatical-category>dem</grammatical-category>
             <gloss>Dist:人</gloss>
@@ -4744,6 +4793,22 @@
             <gloss>Prox:Adv</gloss>
         </sense>
     </entry>
+    <entry id="" dateCreated="" dateModified="" order="1">
+        <lexical-unit>ko,</lexical-unit>
+        <citation>ko,</citation>
+        <morph-type>root</morph-type>
+        <variant></variant>
+        <variant></variant>
+        <phonetic lang=":"></phonetic>
+        <note>tone:a</note>
+        <note></note>
+        <note>eg: </note>
+        <sense id="" order="1">
+            <grammatical-category>dem</grammatical-category>
+            <gloss>Prox</gloss>
+            <internal-note></internal-note>
+        </sense>
+    </entry>
     <entry id="20220917_2868" dateCreated="2021-10-12T22:55:10.064Z" dateModified="2021-10-24T06:59:41.478Z" order="1">
         <lexical-unit>kore,</lexical-unit>
         <citation>kore,</citation>
@@ -4752,7 +4817,7 @@
         <variant>koje,</variant>
         <variant>koj,</variant>
         <variant>koQ,</variant>
-        <variant>ko,</variant>
+        <variant></variant>
         <note>tone:a</note>
         <note>eg: kasa=[o] ka[su;d]=de [ko]-j=o sasj;i-[te] modo[r;a-n]=na ?? :傘を　貸すんで　此れを　差して　戻らない？</note>
         <note>eg: ma[da] ko-i=[ka]ra=o :未だ　此れからよ。</note>
@@ -4889,6 +4954,22 @@
             <gloss>Med:Adv</gloss>
         </sense>
     </entry>
+    <entry id="" dateCreated="" dateModified="" order="1">
+        <lexical-unit>so,</lexical-unit>
+        <citation>so,</citation>
+        <morph-type>root</morph-type>
+        <variant></variant>
+        <variant></variant>
+        <phonetic lang=":"></phonetic>
+        <note>tone:a</note>
+        <note></note>
+        <note>eg: </note>
+        <sense id="" order="1">
+            <grammatical-category>dem</grammatical-category>
+            <gloss>Med</gloss>
+            <internal-note></internal-note>
+        </sense>
+    </entry>
     <entry id="20220917_2864" dateCreated="2021-10-12T22:55:10.064Z" dateModified="2021-10-24T06:59:41.478Z" order="1">
         <lexical-unit>sore,</lexical-unit>
         <citation>sore,</citation>
@@ -4897,7 +4978,6 @@
         <variant>soje,</variant>
         <variant>soj,</variant>
         <variant>soQ,</variant>
-        <variant>so,</variant>
         <variant>hoj,</variant>
         <variant>hoN,</variant>
         <variant>soru,</variant>
@@ -5390,11 +5470,14 @@
         </sense>
     </entry>
     <entry id="20220917_1255" order="1">
-        <lexical-unit>]@te/</lexical-unit>
-        <citation>]@te/</citation>
+        <lexical-unit>]@toni/</lexical-unit>
+        <citation>]@toni/</citation>
         <morph-type>root</morph-type>
-        <variant></variant>
-        <variant></variant>
+        <variant>]@toi</variant>
+        <variant>]@tee^</variant>
+        <variant>]toni</variant>
+        <variant>]toi</variant>
+        <variant>]tee^</variant>
         <phonetic lang=":"></phonetic>
         <note>tone:**</note>
         <note></note>
@@ -5406,7 +5489,23 @@
         <note>eg: ha[jo] sade-ke-sji[mja]: jo-[ka]=te :早く　死にくされば　よいのに</note>
         <sense id="" order="1">
             <grammatical-category>encl</grammatical-category>
-            <gloss>Ccs</gloss>
+            <gloss>Dsst</gloss>
+            <internal-note></internal-note>
+        </sense>
+    </entry>
+    <entry id="" dateCreated="" dateModified="" order="1">
+        <lexical-unit>]@noni/</lexical-unit>
+        <citation>]@noni</citation>
+        <morph-type>root</morph-type>
+        <variant></variant>
+        <variant></variant>
+        <phonetic lang=":"></phonetic>
+        <note>tone:**</note>
+        <note></note>
+        <note>eg: </note>
+        <sense id="" order="1">
+            <grammatical-category>encl</grammatical-category>
+            <gloss>Dsst</gloss>
             <internal-note></internal-note>
         </sense>
     </entry>
@@ -52831,9 +52930,11 @@
         </sense>
     </entry>
     <entry id="20220917_47" dateCreated="2021-09-03T01:32:08.047Z" dateModified="2021-10-26T10:24:01.316Z" order="1">
-        <lexical-unit>//siko/</lexical-unit>
-        <citation>//siko/</citation>
+        <lexical-unit>//@siko/</lexical-unit>
+        <citation>//@siko/</citation>
         <morph-type>root</morph-type>
+        <variant>//@Cko/</variant>
+        <variant>//siko/</variant>
         <variant>//Cko/</variant>
         <note>tone:b</note>
         <note>eg: so//sjko=[de] jetsjo[gan]-na :其れだけで　得意がるな。</note>
